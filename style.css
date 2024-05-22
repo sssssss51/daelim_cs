@@ -107,3 +107,15 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.member {
+  position: absolute;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 120%;
+  font-weight: 500;
+  color: white;
+  text-shadow: 
+  0 0 5px #fff
+}
